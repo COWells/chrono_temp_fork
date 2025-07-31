@@ -1,6 +1,8 @@
 Project CHRONO
 ==============
 
+NOTE: This is a temporary fork until my changes have gone through the admin pipeline
+
 [![pipeline status](https://gitlab.com/uwsbel/chrono/badges/main/pipeline.svg)](https://gitlab.com/uwsbel/chrono/commits/main)
 [![BSD License](http://www.projectchrono.org/assets/logos/chrono-bsd.svg)](https://projectchrono.org/license-chrono.txt)
 
